@@ -92,10 +92,10 @@ The goal of this project was to transform messy sales data into a clean dataset 
 ---
 
 ## 📸 Preview  
-Sales Dashboard(https://github.com/rajdip29/Sales-Analysis-Dashboard/blob/main/Dashboard.png)  
+![Sales Dashboard](https://github.com/rajdip29/Sales-Analysis-Dashboard/blob/main/Dashboard.png)  
 
 ---
 
 
 ## 🤝 Connect  
-If you find this project helpful, feel free to ⭐ the repo and connect with me on [LinkedIn](your-linkedin-profile).  
+If you find this project helpful, feel free to ⭐ the repo and connect with me on [LinkedIn]((https://www.linkedin.com/in/rajdip-dutta07/)).  
