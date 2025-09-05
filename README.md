@@ -36,11 +36,7 @@ The goal of this project was to transform messy sales data into a clean dataset 
 
 ---
 
-## 🔗 Repository Contents  
-- `salesdata.xlsx` → Raw & cleaned data  
-- `Sales_Dashboard.xlsx` → Final dashboard file  
 
----
 
 ## 📸 Preview  
 ![Sales Dashboard](https://github.com/rajdip29/Sales-Analysis-Dashboard/blob/main/Dashboard.png)  
